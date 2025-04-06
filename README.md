@@ -302,13 +302,4 @@ source .venv/bin/activate
 ```
 
 
-Follow official Docs for more info and Errors!
-
-https://github.com/gensyn-ai/rl-swarm/tree/brian-address-cpu-only-crashes?tab=readme-ov-file#troubleshooting
-
-👉 Join TG for more Updates: https://telegram.me/cryptogg
-
-If U have any issue then open a issue on this repo or Dm me on TG~
-
-Thank U! 👨🏻‍💻 Happy Coding💗
 
